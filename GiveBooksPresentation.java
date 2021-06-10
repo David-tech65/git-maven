@@ -17,6 +17,8 @@ public class GiveBooksPresentation {
         System.out.println("Make some changes");
         System.out.println("News");
 
+        System.out.println("I've made first new feature");
+
     }
 
 
