@@ -14,10 +14,7 @@ public class GiveBooksPresentation {
         b1.book_delivery();
         System.out.println("Fly");
 
-        System.out.println("New features!");
-
-        System.out.println("v 2.0");
-        System.out.println("v 3.0");
+        System.out.println("Make some changes");
 
     }
 
