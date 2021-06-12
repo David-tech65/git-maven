@@ -18,6 +18,7 @@ public class Book extends Page implements PlaceBook {
 
     void book_delivery(){
         System.out.println("The book is sent to your home");
+        System.out.println("10");
 
     }
 
